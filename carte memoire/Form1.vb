@@ -57,12 +57,6 @@
                 wh = wh + 1
             End If
 
-            'Dim lol() As Byte =
-            ' {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12}
-
-            'For lol As Integer = 0 To lol.Length - 1
-            'secics(i).BackColor = face
-            'Next i
 
             If wh = 2 Then
                 PictureBox2.BackColor = face

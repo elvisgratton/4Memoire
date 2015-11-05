@@ -9,3 +9,7 @@ C:\Users\VBNET\Documents\Visual Studio 2015\Projects\carte memoire\carte memoire
 C:\Users\VBNET\Documents\Visual Studio 2015\Projects\carte memoire\carte memoire\obj\Debug\carte memoire.exe
 C:\Users\VBNET\Documents\Visual Studio 2015\Projects\carte memoire\carte memoire\obj\Debug\carte memoire.pdb
 C:\Users\VBNET\Documents\Visual Studio 2015\Projects\carte memoire\carte memoire\obj\Debug\carte memoire.vbprojResolveAssemblyReference.cache
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\bin\Debug\carte memoire.exe.config
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.exe
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.xml
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.pdb
