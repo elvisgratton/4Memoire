@@ -13,3 +13,10 @@ C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\bin\Debug\carte memoire.ex
 C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.exe
 C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.xml
 C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.pdb
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\bin\Debug\carte memoire.exe
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\bin\Debug\carte memoire.pdb
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\bin\Debug\carte memoire.xml
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.vbprojResolveAssemblyReference.cache
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\MasterMind.Form1.resources
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\MasterMind.Resources.resources
+C:\Users\gratga1\Source\Repos\4Memoire2\carte memoire\obj\Debug\carte memoire.vbproj.GenerateResource.Cache

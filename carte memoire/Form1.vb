@@ -104,7 +104,7 @@
 
         For i As Integer = 0 To pics.Length - 1
 
-            pics(i).BackgroundImage = System.Drawing.Image.FromFile("C:\Users\VBNET\Documents\Visual Studio 2015\Projects\carte memoire\carte memoire\sans titre.png")
+            pics(i).BackgroundImage = System.Drawing.Image.FromFile("C:\Users\gratga1\Documents\GitHub\4Memoire\images\carte.png")
 
         Next i
 

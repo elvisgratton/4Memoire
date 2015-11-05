@@ -22,5 +22,20 @@ carte memoire
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:MasterMind.My.Resources.Resources.background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MasterMind.My.Resources.Resources.carte">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MasterMind.My.Resources.Resources.carte1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>
